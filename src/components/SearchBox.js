@@ -17,17 +17,7 @@ class SearchBox extends React.Component {
         </div>
       );
     }
-       
-    
-
-
-    // this.props.emojis.map(function(emoji){
-    //   if(emoji.keywords.match(event.target.value)){
-    //     return (<li>
-    //               {emoji.symbol}
-    //            </li>)
-    //   }
-    // }) 
+      
   }
  
 export default SearchBox
